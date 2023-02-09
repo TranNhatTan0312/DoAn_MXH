@@ -1,0 +1,512 @@
+city,Target_type
+Istanbul,Police
+Istanbul,Tourists
+Ankara,NGO
+Kucukmece,Business
+Yesilkoy,Transportation
+Istanbul,Violent Political Party
+Akdana,Private Citizens & Property
+Istanbul,Police
+Baykoy,Private Citizens & Property
+Ankara,Airports & Aircraft
+Resadiye District,Business
+Istanbul,Government (General)
+Dikbiyik,Business
+Kizilsu,Police
+Istanbul,Business
+Yuksekova district,Military
+Kirikkale,Transportation
+Diyarbakir,Business
+Van,Military
+Uskudar,Government (General)
+Bursa,Government (General)
+Seyhan District,Military
+Istanbul,Government (General)
+Istanbul,Private Citizens & Property
+Istanbul,Private Citizens & Property
+Istanbul,Private Citizens & Property
+Istanbul,Business
+Batman,Private Citizens & Property
+Istanbul,Private Citizens & Property
+Cankiri,Government (General)
+Istanbul,Business
+Istanbul,Business
+Ankara,Government (General)
+Istanbul,Private Citizens & Property
+Istanbul,Private Citizens & Property
+Istanbul,Government (General)
+Istanbul,Business
+Istanbul,Private Citizens & Property
+Istanbul,Business
+Ankara,Government (General)
+Istanbul,Business
+Istanbul,NGO
+Ankara,Government (General)
+Istanbul,Violent Political Party
+Mus,Government (General)
+Diyarbakir,Police
+Van,Utilities
+Istanbul,Government (General)
+Istanbul,Police
+Istanbul,Private Citizens & Property
+Istanbul,Police
+Istanbul,Government (General)
+Of,Government (General)
+Bingol,Government (General)
+Hakkari,Government (General)
+Yenimahalle District,Government (General)
+Istanbul,Government (General)
+Yuksekova District,Military
+Cat district,Government (General)
+Karakocan district,Military
+Istanbul,Business
+Diyadin District,Police
+Konya,Government (General)
+Kiziltepe District,Government (General)
+Elazig,Business
+Cizre District,Military
+Cayirli,Utilities
+Istanbul,Private Citizens & Property
+Adana,Police
+Uzumlu,Transportation
+Cayirli,Military
+Istanbul,Utilities
+Payas,Business
+Dogansar District,Government (General)
+Istanbul,Transportation
+Istanbul,Transportation
+Istanbul,Transportation
+Caglayan,Business
+Arabaslik,Business
+Solhan,Business
+Karakocan district,Military
+Bulanik,Military
+Cigdemli,Private Citizens & Property
+Catak,Military
+Konak District,Government (General)
+Tunceli,Police
+Istanbul,Government (General)
+Istanbul,Government (General)
+Istanbul,Food or Water Supply
+Istanbul,Government (General)
+Istanbul,Business
+Uskudar,Government (General)
+Istanbul,Business
+Toroslar,Government (General)
+Istanbul,Government (General)
+Istanbul,Government (General)
+Istanbul,Educational Institution
+Istanbul,Government (General)
+Istanbul,Government (General)
+Istanbul,Government (General)
+Mesepinar,Private Citizens & Property
+Istanbul,Journalists & Media
+Istanbul,Business
+Bademli,Private Citizens & Property
+Istanbul,Police
+Ankara,Educational Institution
+Istanbul,Government (General)
+Istanbul,Private Citizens & Property
+Istanbul,Business
+Istanbul,Private Citizens & Property
+Istanbul,Journalists & Media
+Istanbul,Business
+Istanbul,Journalists & Media
+Istanbul,Journalists & Media
+Erzin,Government (General)
+Istanbul,Government (General)
+Istanbul,Transportation
+Istanbul,Business
+Adana,Private Citizens & Property
+Isparta,Police
+Istanbul,Telecommunication
+Istanbul,Private Citizens & Property
+Istanbul,Government (General)
+Ankara,Private Citizens & Property
+Ankara,Private Citizens & Property
+Gaziantep,Government (General)
+Diyarbakir,Government (General)
+Diyarbakir,Government (General)
+Istanbul,Business
+Istanbul,Business
+Dazya,Military
+Kadikoy district,Police
+Istanbul,Military
+Diyarbakir,Police
+Istanbul,Police
+Istanbul,Business
+Istanbul,Business
+Istanbul,Business
+Istanbul,Government (General)
+Istanbul,Police
+Istanbul,Private Citizens & Property
+Istanbul,Business
+Istanbul,Police
+Istanbul,Private Citizens & Property
+Istanbul,Police
+Istanbul,Police
+Istanbul,Educational Institution
+Istanbul,Police
+Diyarbakir,Police
+Aydin,Private Citizens & Property
+Istanbul,Business
+Istanbul,Journalists & Media
+Izmir,Government (General)
+Ankara,NGO
+Istanbul,Business
+Istanbul,NGO
+Istanbul,Business
+Istanbul,Police
+Istanbul,Government (General)
+Istanbul,Government (General)
+Istanbul,Airports & Aircraft
+Istanbul,Private Citizens & Property
+Istanbul,Business
+Istanbul,Business
+Istanbul,Government (General)
+Eskisehir,Business
+Istanbul,Airports & Aircraft
+Istanbul,Business
+Istanbul,Business
+Ankara,Government (General)
+Istanbul,Government (General)
+Istanbul,Government (Diplomatic)
+Istanbul,Government (General)
+Tokat,Military
+Pulumur,Government (General)
+Yenikoy,Private Citizens & Property
+Ankara,Government (General)
+Tunceli,Police
+Istanbul,Religious Figures/Institutions
+Istanbul,Religious Figures/Institutions
+Istanbul,Government (Diplomatic)
+Istanbul,Business
+Nusaybin,Military
+Istanbul,Private Citizens & Property
+Istanbul,Police
+Ankara,Business
+Istanbul,Business
+Pervari,Military
+Istanbul,Business
+Istanbul,Transportation
+Van,Government (General)
+Guclukonak District,Military
+Mardinkapi,Police
+Istanbul,Business
+Istanbul,Business
+Istanbul,Utilities
+Dortyol,Business
+Ankara,Government (General)
+Mersin,Private Citizens & Property
+Istanbul,Business
+Adana,Business
+Izmir,Business
+Ankara,Government (Diplomatic)
+Yuksekova district,Military
+Yuksekova,Military
+Omerli,Military
+Istanbul,Business
+Yenisehir,Private Citizens & Property
+Taskoy,Utilities
+Diyarbakir,Government (General)
+Mersin,Government (General)
+Mus,Transportation
+Gebze district,Business
+Ankara,Government (General)
+Diyarbakir,Police
+Ziyaret,Military
+Hozat district,Military
+Sirnak,Private Citizens & Property
+Cesme,Tourists
+Kusadasi district,Tourists
+Istanbul,Business
+Torul,Military
+Hakkari,Military
+Kocakoy,Police
+Antalya,Business
+Antalya,Private Citizens & Property
+Pendik,Private Citizens & Property
+Servi,Government (General)
+Semdinli,Military
+Alacakaya,Government (General)
+Istanbul,Private Citizens & Property
+Beytussebap,Government (General)
+Islahiye district,Transportation
+Van,Police
+Yuksekova,Business
+Batman,Government (General)
+Semdinli,Private Citizens & Property
+Semdinli,Private Citizens & Property
+Istanbul,Private Citizens & Property
+Bukardi,Military
+Istanbul,Transportation
+Adana,Business
+Istanbul,Business
+Istanbul,Business
+Mersin,Government (General)
+Izmir, police suspect ties to the Kurdistan Workers Party (PKK).
+Batman,Police
+Van,Private Citizens & Property
+Istanbul,Transportation
+Istanbul,Government (General)
+Ordu,Educational Institution
+Diyarbakir,Military
+Istanbul,Business
+Istanbul,Government (General)
+Sirnak,Private Citizens & Property
+Hakkari,Military
+Beldeler,Government (General)
+Ankara,Government (General)
+Geyiksuyu,Military
+Istanbul,Police
+Istanbul,Government (General)
+Dicle,Military
+Bakacak,Transportation
+Adana,Business
+Siran,Military
+Bingol,Transportation
+Gecitalan,Utilities
+Antalya,Private Citizens & Property
+Antalya,Government (Diplomatic)
+Marmaris,Transportation
+Van,Military
+Catak,Police
+Diyarbakir,Private Citizens & Property
+Genc,Transportation
+Mersin,Business
+Izmir,Business
+Samsun,NGO
+Diyarbakir district,Airports & Aircraft
+Kigi,Military
+Malatya,Private Citizens & Property
+Ankara,Business
+Genc,Transportation
+Tunceli,Police
+Semdinli district,Military
+Pulumur,Military
+Genc district,Military
+Cukurca district,Military
+Istanbul,Private Citizens & Property
+Kulp district,Police
+Diyarbakir,Transportation
+Cukurca,Military
+Ankara,Private Citizens & Property
+Izmir,Private Citizens & Property
+Izmir,Private Citizens & Property
+Daglica,Private Citizens & Property
+Izmir,Government (General)
+Ogulveren,Private Citizens & Property
+Izmir,Government (General)
+Istanbul,Journalists & Media
+Malatya,Business
+Istanbul,Private Citizens & Property
+Istanbul,Journalists & Media
+Istanbul,Business
+Sason,Transportation
+Semdinli,Private Citizens & Property
+Kabala,Police
+Dogubeyazit district,Utilities
+Yuksekova district,Private Citizens & Property
+Egirmec,Transportation
+Semdinli,Government (General)
+Semdinli,Private Citizens & Property
+Istanbul,Police
+Istanbul,Private Citizens & Property
+Semdinli,Private Citizens & Property
+Refahiye,Business
+Mersin,Police
+Semdinli,Transportation
+Tunceli,Police
+Hakkari,Government (General)
+Hakkari,Private Citizens & Property
+Midyat,Utilities
+Istanbul,Government (General)
+Istanbul,Business
+Besikduzu,Business
+Ankara,Business
+Istanbul,Police
+Istanbul,Military
+Ankara,Government (General)
+Cukurca,Business
+Silopi,Transportation
+Istanbul,Business
+Istanbul,Transportation
+Hatay,Government (General)
+Istanbul,Transportation
+Duzici district,Transportation
+Midyat,Utilities
+Dogubeyazit district,Utilities
+Erzincan,Transportation
+Hakkari,Police
+Hakkari,Government (General)
+Hakkari,Government (General)
+Hakkari,Police
+Magara,Utilities
+Gecitli,Transportation
+Istanbul,Private Citizens & Property
+Istanbul,Private Citizens & Property
+Istanbul,Private Citizens & Property
+Istanbul,Business
+Mersin,Business
+Toroslar,Government (General)
+Istanbul,Private Citizens & Property
+Istanbul,Educational Institution
+Buca district,Government (General)
+Adana,Private Citizens & Property
+Saricam District,Government (General)
+Diyarbakir,Government (General)
+Istanbul,Transportation
+Sanliurfa,Government (General)
+Istanbul,Transportation
+Nusaybin district,Government (General)
+Diyarbakir,Government (General)
+Silvan,Business
+Istanbul,Private Citizens & Property
+Mersin,Government (General)
+Cizre,Educational Institution
+Cizre district,Religious Figures/Institutions
+Diyarbakir,Educational Institution
+Sirnak,Private Citizens & Property
+Genc,Military
+Hizan district,Government (General)
+Karliova,Business
+Kemer,Private Citizens & Property
+Tunceli,Police
+Kasimli,Business
+Ankara,Government (General)
+Kirikkale,Transportation
+Batman,Private Citizens & Property
+Yuksekova district,Private Citizens & Property
+Celtiksuyu,Business
+Istanbul,Government (General)
+Sirnak,Business
+Bingol,Government (General)
+Izmit,Transportation
+Ercis,Transportation
+Nusaybin,Military
+Kozluk,Business
+Bitlis,Military
+Cukurca,Military
+Istanbul,Business
+Istanbul,Private Citizens & Property
+Semdinli,Business
+Pinarbasi,Police
+Istanbul,Police
+Omurlu,Military
+Omurlu,Military
+Beytussebap district,Police
+Beytussebap district,Police
+Beytussebap district,Police
+Beytussebap district,Police
+Mezra,Military
+Sultangazi district,Police
+Cukurca district,Military
+Dogubeyazit district,Business
+Tatvan,Business
+Nazimiye district,Military
+Nazimiye district,Military
+Yuksekova district,Police
+Tunceli,Military
+Iskenderun,Military
+Semdinli,Police
+Lice district,Military
+Antakya,Business
+Ankara,Government (Diplomatic)
+Reyhanli,Private Citizens & Property
+Ankara,Government (General)
+Reyhanli,Government (General)
+Reyhanli,Government (General)
+Hani district,Military
+Belenoluk,Business
+Cizre,Police
+Istanbul,Private Citizens & Property
+Lice district,Military
+Lice district,Military
+Istanbul,Religious Figures/Institutions
+Saray,Military
+Kocakoy,Military
+Diyadin,Military
+Cizre district,Educational Institution
+Cizre district,Educational Institution
+Cizre district,Educational Institution
+Cizre district,Educational Institution
+Yuksekova district,Educational Institution
+Yuksekova district,Educational Institution
+Yuksekova district,Educational Institution
+Cizre district,Educational Institution
+Cizre district,Educational Institution
+Cizre district,Educational Institution
+Daglica,Police
+Ankara,Private Citizens & Property
+Istanbul,Police
+Istanbul,Police
+Istanbul,Utilities
+Istanbul,Police
+Istanbul,Transportation
+Istanbul,Journalists & Media
+Istanbul,Government (General)
+Aritis,Educational Institution
+Suruc,Private Citizens & Property
+Ceylanpinar,Police
+Istanbul,Private Citizens & Property
+Adana,Private Citizens & Property
+Lice,Military
+Nusaybin,Police
+Tatvan,Police
+Malazgirt,Military
+Caldiran district,Military
+Ercis district,Police
+Cizre,Police
+Semdinli district,Military
+Cinar,Police
+Dogubeyazit district,Military
+Yuksekova district,Police
+Akcay,Military
+Cizre,Police
+Diyarbakir,Police
+Pozanti,Police
+Hani district,Military
+Sanliurfa,Journalists & Media
+Sur district,Private Citizens & Property
+Istanbul,Airports & Aircraft
+Gaziantep,Journalists & Media
+Ankara,Military
+Ankara,Private Citizens & Property
+Hani,Government (General)
+Hani,Military
+Istanbul,Journalists & Media
+Istanbul,Police
+Istanbul,Business
+Istanbul,Airports & Aircraft
+Ankara,Journalists & Media
+Ankara,Military
+Ankara,Police
+Ankara,Police
+Ankara,Business
+Ankara,Military
+Ankara,Private Citizens & Property
+Ankara,Police
+Ankara,Military
+Marmaris,Government (General)
+Ankara,Government (General)
+Cizre,Police
+Van,Private Citizens & Property
+Semdinli district,Private Citizens & Property
+Ankara,Government (Diplomatic)
+Ozalp,Private Citizens & Property
+Dicle,Private Citizens & Property
+Derik district,Government (General)
+Cukurca district,Military
+Istanbul,Government (General)
+Istanbul,Business
+Istanbul,Business
+Izmir,Business
+Ankara,Government (Diplomatic)
+Istanbul,Business
+Istanbul,Business
+Diyarbakir,Police
+Diyarbakir,Police
+Istanbul,Journalists & Media
+Dogubeyazit district,Transportation
+Semdinli district,Military
+Istanbul,Business
